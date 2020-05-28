@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\AIT\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\AIT\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial02.-1354032267.00" t="ExcludeRecursive" />
+    <e p="C:\Users\AIT\Documents\POO\RAUM_00075419_2EP\Parcial02" t="IncludeRecursive">
+      <e p="Admin.cs" t="Include" />
+      <e p="Admin.Designer.cs" t="Include" />
+      <e p="Admin.resx" t="Include" />
+      <e p="AgegarUsuario.cs" t="Include" />
+      <e p="AgegarUsuario.Designer.cs" t="Include" />
+      <e p="AgegarUsuario.resx" t="Include" />
+      <e p="AgregarDireccion.cs" t="Include" />
+      <e p="AgregarDireccion.Designer.cs" t="Include" />
+      <e p="AgregarDireccion.resx" t="Include" />
+      <e p="AgregarNegocio.cs" t="Include" />
+      <e p="AgregarNegocio.Designer.cs" t="Include" />
+      <e p="AgregarNegocio.resx" t="Include" />
+      <e p="AgregarProducto.cs" t="Include" />
+      <e p="AgregarProducto.Designer.cs" t="Include" />
+      <e p="AgregarProducto.resx" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConnectionDB.cs" t="Include" />
+      <e p="Direcciones.cs" t="Include" />
+      <e p="Direcciones.Designer.cs" t="Include" />
+      <e p="Direcciones.resx" t="Include" />
+      <e p="EliminarDireccion.cs" t="Include" />
+      <e p="EliminarDireccion.Designer.cs" t="Include" />
+      <e p="EliminarDireccion.resx" t="Include" />
+      <e p="EliminarNegocio.cs" t="Include" />
+      <e p="EliminarNegocio.Designer.cs" t="Include" />
+      <e p="EliminarNegocio.resx" t="Include" />
+      <e p="EliminarOrden.cs" t="Include" />
+      <e p="EliminarOrden.Designer.cs" t="Include" />
+      <e p="EliminarOrden.resx" t="Include" />
+      <e p="EliminarProducto.cs" t="Include" />
+      <e p="EliminarProducto.Designer.cs" t="Include" />
+      <e p="EliminarProducto.resx" t="Include" />
+      <e p="EliminarUsuario.cs" t="Include" />
+      <e p="EliminarUsuario.Designer.cs" t="Include" />
+      <e p="EliminarUsuario.resx" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="Login.cs" t="Include" />
+      <e p="Login.Designer.cs" t="Include" />
+      <e p="Login.resx" t="Include" />
+      <e p="ModificarContrasena.cs" t="Include" />
+      <e p="ModificarContrasena.Designer.cs" t="Include" />
+      <e p="ModificarContrasena.resx" t="Include" />
+      <e p="ModificarDireccion.cs" t="Include" />
+      <e p="ModificarDireccion.Designer.cs" t="Include" />
+      <e p="ModificarDireccion.resx" t="Include" />
+      <e p="Negocios.cs" t="Include" />
+      <e p="Negocios.Designer.cs" t="Include" />
+      <e p="Negocios.resx" t="Include" />
+      <e p="Normal.cs" t="Include" />
+      <e p="Normal.Designer.cs" t="Include" />
+      <e p="Normal.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Ordenar.cs" t="Include" />
+      <e p="Ordenar.Designer.cs" t="Include" />
+      <e p="Ordenar.resx" t="Include" />
+      <e p="Ordenes.cs" t="Include" />
+      <e p="Ordenes.Designer.cs" t="Include" />
+      <e p="Ordenes.resx" t="Include" />
+      <e p="OrdenesUser.cs" t="Include" />
+      <e p="OrdenesUser.Designer.cs" t="Include" />
+      <e p="OrdenesUser.resx" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial02.csproj" t="IncludeRecursive" />
+      <e p="Parcial02.sln" t="IncludeFlat" />
+      <e p="Productos.cs" t="Include" />
+      <e p="Productos.Designer.cs" t="Include" />
+      <e p="Productos.resx" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Usuario.cs" t="Include" />
+      <e p="Usuarios.cs" t="Include" />
+      <e p="Usuarios.Designer.cs" t="Include" />
+      <e p="Usuarios.resx" t="Include" />
+      <e p="VerDirecciones.cs" t="Include" />
+      <e p="VerDirecciones.Designer.cs" t="Include" />
+      <e p="VerDirecciones.resx" t="Include" />
+      <e p="VerOrdenes.cs" t="Include" />
+      <e p="VerOrdenes.Designer.cs" t="Include" />
+      <e p="VerOrdenes.resx" t="Include" />
+      <e p="VerUsuarios.cs" t="Include" />
+      <e p="VerUsuarios.Designer.cs" t="Include" />
+      <e p="VerUsuarios.resx" t="Include" />
+      <e p="WrongPasswordException.cs" t="Include" />
+    </e>
+  </component>
+</project>
